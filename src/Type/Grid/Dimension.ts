@@ -1,0 +1,1 @@
+export type Polarity = '-' | '0' | '+';

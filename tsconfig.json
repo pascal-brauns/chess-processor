@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "lib": ["DOM", "ES2019"],
+    "declaration": true,
+    "sourceMap": true,
+    "outDir": "./build",
+    "noImplicitAny": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "moduleResolution": "node",
+    "baseUrl": "./src",
+    "paths": {
+      "Constant": ["./Constant/index"],
+      "Constant/*": ["./Constant/*"],
+      "Mock": ["./Mock/index"],
+      "Mock/*": ["./Mock/*"],
+      "Schema": ["./Schema/index"],
+      "Schema/*": ["./Schema/*"],
+      "Type": ["./Type/index"],
+      "Type/*": ["./Type/*"]
+    },
+    "allowSyntheticDefaultImports": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["src/*.ts", "src/**/*.ts"]
+}

@@ -1,0 +1,194 @@
+[
+  {
+    "type": "rook",
+    "color": "black",
+    "id": "black-rook-0"
+  },
+  {
+    "type": "knight",
+    "color": "black",
+    "id": "black-knight-0"
+  },
+  {
+    "type": "bishop",
+    "color": "black",
+    "id": "black-bishop-0"
+  },
+  {
+    "type": "queen",
+    "color": "black",
+    "id": "black-queen"
+  },
+  {
+    "type": "king",
+    "color": "black",
+    "id": "black-king"
+  },
+  {
+    "type": "bishop",
+    "color": "black",
+    "id": "black-bishop-1"
+  },
+  {
+    "type": "knight",
+    "color": "black",
+    "id": "black-knight-1"
+  },
+  {
+    "type": "rook",
+    "color": "black",
+    "id": "black-rook-1"
+  },
+  {
+    "type": "pawn",
+    "color": "black",
+    "id": "black-pawn-0"
+  },
+  {
+    "type": "pawn",
+    "color": "black",
+    "id": "black-pawn-1"
+  },
+  {
+    "type": "pawn",
+    "color": "black",
+    "id": "black-pawn-2"
+  },
+  {
+    "type": "pawn",
+    "color": "black",
+    "id": "black-pawn-3"
+  },
+  {
+    "type": "pawn",
+    "color": "black",
+    "id": "black-pawn-4"
+  },
+  {
+    "type": "pawn",
+    "color": "black",
+    "id": "black-pawn-5"
+  },
+  {
+    "type": "pawn",
+    "color": "black",
+    "id": "black-pawn-6"
+  },
+  {
+    "type": "pawn",
+    "color": "black",
+    "id": "black-pawn-7"
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "type": "pawn",
+    "color": "white",
+    "id": "white-pawn-0"
+  },
+  {
+    "type": "pawn",
+    "color": "white",
+    "id": "white-pawn-1"
+  },
+  {
+    "type": "pawn",
+    "color": "white",
+    "id": "white-pawn-2"
+  },
+  {
+    "type": "pawn",
+    "color": "white",
+    "id": "white-pawn-3"
+  },
+  {
+    "type": "pawn",
+    "color": "white",
+    "id": "white-pawn-4"
+  },
+  {
+    "type": "pawn",
+    "color": "white",
+    "id": "white-pawn-5"
+  },
+  {
+    "type": "pawn",
+    "color": "white",
+    "id": "white-pawn-6"
+  },
+  {
+    "type": "pawn",
+    "color": "white",
+    "id": "white-pawn-7"
+  },
+  {
+    "type": "rook",
+    "color": "white",
+    "id": "white-rook-0"
+  },
+  {
+    "type": "knight",
+    "color": "white",
+    "id": "white-knight-0"
+  },
+  {
+    "type": "bishop",
+    "color": "white",
+    "id": "white-bishop-0"
+  },
+  {
+    "type": "queen",
+    "color": "white",
+    "id": "white-queen"
+  },
+  {
+    "type": "king",
+    "color": "white",
+    "id": "white-king"
+  },
+  {
+    "type": "bishop",
+    "color": "white",
+    "id": "white-bishop-1"
+  },
+  {
+    "type": "knight",
+    "color": "white",
+    "id": "white-knight-1"
+  },
+  {
+    "type": "rook",
+    "color": "white",
+    "id": "white-rook-1"
+  }
+]
