@@ -1,6 +1,6 @@
 {
   "name": "chess-processor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stateless library to apply actions to a chess state",
   "main": "build/index.js",
   "scripts": {
@@ -29,10 +29,10 @@
     "eslint": "^7.32.0",
     "jest": "^27.3.1",
     "jest-config": "^27.3.1",
+    "np": "^7.6.0",
     "ts-jest": "^27.0.7",
     "ts-node": "^10.4.0",
     "tsc-alias": "1.3.0",
-    "typescript": "^4.4.4",
-    "typescript-json-schema": "^0.51.0"
+    "typescript": "^4.4.4"
   }
 }
